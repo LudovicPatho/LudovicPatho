@@ -8,9 +8,10 @@ Python, Machine and deep learnin/Kotlin
 * ludovic.patho@gmail.com  
 * https://patholudovic.be
 
-Here's a short list of things I know:
+### Here's a short list of things I know:
 
 **Android with kotlin**
+- mobile application development in kotlin
 
 **Python:**
 - Flask
@@ -22,7 +23,11 @@ Here's a short list of things I know:
 - Es2019
 - VueJS
 
-**Docker**
-- Deployement with Docker
+**Other**
+- Docker
+- pm2
+- cron
+- bash
+
 
 
