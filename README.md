@@ -2,7 +2,7 @@
 I am an AI coach for the Charleroi class.I participate in the creation of content for the course on Pyhton, deep learning, and machine learning.I take part in occasional missions as a freelance.  
 
 💬 **Ask me about**  
-Python, Machine and deep learnin/Kotlin  
+Python, Machine and deep learning/Kotlin  
 
 📫 **Reach me :**  
 * ludovic.patho@gmail.com  
