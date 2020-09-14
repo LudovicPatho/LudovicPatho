@@ -15,7 +15,7 @@ Python, Machine and deep learnin/Kotlin
 
 **Python:**
 - Flask
-- Numpy/matplotlib/scipy/sklearn/opencv/kears/tensorflow
+- Numpy/matplotlib/scipy/sklearn/opencv/keras/tensorflow
 - Rasa
 
 **Javascript:**
