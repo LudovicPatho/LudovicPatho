@@ -1,7 +1,7 @@
 # Hello, i'm Ludovic
 
 🔭 **I’m currently working at BeCode.org**.  
-I am AI coach for the Charleroi class.I participate in the creation of content for the course on Pyhton, deep learning, and machine learning.I take part in occasional missions as a freelance.  
+I am AI coach for the Charleroi class. I participate in the creation of content for the course on Pyhton, deep learning, and machine learning.I take part in occasional missions as a freelance.  
 
 💬 **Ask me about**  
 Python, Machine and deep learning/Kotlin  
