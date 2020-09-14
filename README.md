@@ -1,16 +1,22 @@
-### Hi there 👋
+🔭 **I’m currently working at BeCode.org**. I am an AI coach for the Charleroi class.I participate in the creation of content for the course on Pyhton, deep learning, and machine learning.I take part in occasional missions as a freelance.
+💬 **Ask me about** Python, Machine and deep learnin/Kotlin
+📫 **Reach me on mail :** ludovic.patho@gmail.com
 
-<!--
-**LudovicPatho/LudovicPatho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a short list of things I know:
 
-Here are some ideas to get you started:
+**Android with kotlin**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Python:**
+- Flask
+- Numpy/matplotlib/scipy/sklearn/opencv/kears/tensorflow
+- Rasa
+
+**Javascript:**
+- Nodejs
+- Es2019
+- VueJS
+
+**Docker**
+- Deployement with Docker
+
+
