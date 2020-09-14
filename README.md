@@ -12,20 +12,20 @@ Python, Machine and deep learning/Kotlin
 
 ### 🧐 Here's a short list of things I know:
 
-**Android with kotlin**
+#### Android with kotlin
 - mobile application development in kotlin
 
-**Python:**
+#### Python:
 - Flask
 - Numpy/matplotlib/scipy/sklearn/opencv/keras/tensorflow
 - Rasa
 
-**Javascript:**
+#### Javascript:
 - Nodejs
 - Es2019
 - VueJS
 
-**Other**
+#### Others
 - Docker
 - pm2
 - cron
