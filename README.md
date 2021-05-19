@@ -25,7 +25,7 @@ Python, Machine and deep learning/Kotlin
 - Es2019
 - VueJS
 
-#### Others
+#### Devops
 - Docker
 - pm2
 - cron
