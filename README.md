@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.patholudovic.be](www.patholudovic.be)
 
-- 💬 Ask me about **Python, Javadcripy, Machine learning**
+- 💬 Ask me about **Python, Javascript, Machine learning**
 
 - 📫 How to reach me **ludovic.patho@gmail.com**
 
