@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludovicpatho&label=Profile%20views&color=0e75b6&style=flat" alt="ludovicpatho" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ludovicpatho" alt="ludovicpatho" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ludovicpatho" alt="ludovicpatho" /></a> </p>
+ -->
 <p align="left"> <a href="https://twitter.com/ludo_tech_yt" target="blank"><img src="https://img.shields.io/twitter/follow/ludo_tech_yt?logo=twitter&style=for-the-badge" alt="ludo_tech_yt" /></a> </p>
 
 - 🔭 I’m currently working on [BeCode](https://becode.org/)
