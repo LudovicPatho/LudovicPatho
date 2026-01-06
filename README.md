@@ -11,7 +11,7 @@
 
 
 	
-## 0x **About me**
+## 0x0 **About me**
 
 <picture> <img align="right" src="https://github.com/LudovicPatho/LudovicPatho/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -22,7 +22,7 @@
 
 <br><br>
 
-## <b> Skills</b>
+## 0x1 Skills
 <br>
 
 <p align="center">
@@ -75,7 +75,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/LudovicPatho/LudovicPatho/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 0x2 Let's Connect..!</b><img src="https://github.com/LudovicPatho/LudovicPatho/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
